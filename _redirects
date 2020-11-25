@@ -1,0 +1,5 @@
+# Redirects from what the browser requests to what we serve
+/home              /
+/pagina2.html  /pagina2
+/news              /blog
+/cuties            https://www.petsofnetlify.com
